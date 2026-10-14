@@ -1,6 +1,6 @@
 # Awesome-Youtube-Fan-Monetization
 
-# Top YouTube Fan Monetization Tools Ecosystem
+## Top YouTube Fan Monetization Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Creator Subscriptions, Digital Products & Fan Funding*  
