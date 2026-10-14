@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Youtube-Fan-Monetization/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Youtube-Fan-Monetization?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Youtube-Fan-Monetization/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Youtube-Fan-Monetization?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Youtube-Fan-Monetization/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Youtube-Fan-Monetization?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Youtube-Fan-Monetization/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Youtube-Fan-Monetization/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -67,66 +67,66 @@ Below is a detailed comparison of industry-leading SaaS platforms curated for Yo
 
 A curated collection of self-hosted, open-source repositories enabling creators and developers to build custom membership portals, payment processors, tipping pages, and digital storefronts without recurring SaaS subscriptions or platform lock-in.
 
-*Sorted descending by GitHub Stars count:*
+*Sorted descending by GitHub_Stars_Count:*
 
-- **[Ghost](https://github.com/TryGhost/Ghost)** [![GitHub stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers)  
+- **[Ghost](https://github.com/TryGhost/Ghost)** [![GitHub_Stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers)  
   *The premier open-source publishing and membership platform.* Features native member registration, Stripe integration for tiered paid subscriptions, gated post content, and automated email newsletters. Powers hundreds of thousands of independent creators and media brands seeking complete data ownership with zero platform cuts.
 
-- **[Hyperswitch](https://github.com/juspay/hyperswitch)** [![GitHub stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers)  
+- **[Hyperswitch](https://github.com/juspay/hyperswitch)** [![GitHub_Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers)  
   *High-performance, open-source payment switch written in Rust.* Orchestrates multi-gateway routing (Stripe, PayPal, Adyen, Apple Pay, crypto) for creator storefronts and membership platforms, optimizing payment success rates and slashing payment processing fees.
 
-- **[Medusa](https://github.com/medusajs/medusa)** [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
+- **[Medusa](https://github.com/medusajs/medusa)** [![GitHub_Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
   *Modular open-source headless commerce engine built with Node.js and TypeScript.* Provides a customizable backend for selling creator merchandise, digital assets, and recurring subscription products with extensible plugin architecture.
 
-- **[Bagisto](https://github.com/bagisto/bagisto)** [![GitHub stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers)  
+- **[Bagisto](https://github.com/bagisto/bagisto)** [![GitHub_Stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers)  
   *Enterprise Laravel-based open-source e-commerce framework.* Includes built-in multi-currency, multi-channel capabilities, and downloadable digital product catalogs, ideal for creators building branded e-commerce stores with total code ownership.
 
-- **[Saleor](https://github.com/saleor/saleor)** [![GitHub stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)  
+- **[Saleor](https://github.com/saleor/saleor)** [![GitHub_Stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)  
   *Ultra-fast, composable headless e-commerce platform powered by Python, Django, and GraphQL.* Allows creators and engineering teams to deploy performant digital storefronts, member-only merchandise drops, and seamless checkout flows.
 
-- **[Spree Commerce](https://github.com/spree/spree)** [![GitHub stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers)  
+- **[Spree Commerce](https://github.com/spree/spree)** [![GitHub_Stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers)  
   *Time-tested open-source headless commerce platform written in Ruby on Rails.* Highly adaptable for creators selling digital guides, preset packs, physical apparel, and tiered subscriptions with zero platform commissions.
 
-- **[Vendure](https://github.com/vendurehq/vendure)** [![GitHub stars](https://img.shields.io/github/stars/vendurehq/vendure?style=social&color=white)](https://github.com/vendurehq/vendure/stargazers)  
+- **[Vendure](https://github.com/vendurehq/vendure)** [![GitHub_Stars](https://img.shields.io/github/stars/vendurehq/vendure?style=social&color=white)](https://github.com/vendurehq/vendure/stargazers)  
   *Modern headless commerce framework built on TypeScript, NestJS, and GraphQL.* Purpose-designed for developer ergonomic flexibility, making it easy to create customized subscription billing, video course checkouts, and downloadable content portals.
 
-- **[BTCPay Server](https://github.com/btcpayserver/btcpayserver)** [![GitHub stars](https://img.shields.io/github/stars/btcpayserver/btcpayserver?style=social&color=white)](https://github.com/btcpayserver/btcpayserver/stargazers)  
+- **[BTCPay Server](https://github.com/btcpayserver/btcpayserver)** [![GitHub_Stars](https://img.shields.io/github/stars/btcpayserver/btcpayserver?style=social&color=white)](https://github.com/btcpayserver/btcpayserver/stargazers)  
   *Self-hosted, open-source cryptocurrency payment gateway.* Allows YouTube creators to accept direct Bitcoin and Lightning Network tips, recurring donations, and crowdfunding contributions directly to their non-custodial wallets with **0% fees and no middleman censorship**.
 
-- **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
+- **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
   *Industrial-grade open-source subscription billing and payments platform.* Manages complex recurring pricing models, automated dunning routines, invoice generation, and multi-gateway payment processing for scalable creator platforms.
 
-- **[Liberapay](https://github.com/liberapay/liberapay.com)** [![GitHub stars](https://img.shields.io/github/stars/liberapay/liberapay.com?style=social&color=white)](https://github.com/liberapay/liberapay.com/stargazers)  
+- **[Liberapay](https://github.com/liberapay/liberapay.com)** [![GitHub_Stars](https://img.shields.io/github/stars/liberapay/liberapay.com?style=social&color=white)](https://github.com/liberapay/liberapay.com/stargazers)  
   *Recurrent donation and patronage platform built specifically for creators, artists, and open-source contributors.* Operates as a transparent non-profit charging **0% platform fees**, funded entirely through voluntary donations on its own system.
 
-- **[FOSSBilling](https://github.com/FOSSBilling/FOSSBilling)** [![GitHub stars](https://img.shields.io/github/stars/FOSSBilling/FOSSBilling?style=social&color=white)](https://github.com/FOSSBilling/FOSSBilling/stargazers)  
+- **[FOSSBilling](https://github.com/FOSSBilling/FOSSBilling)** [![GitHub_Stars](https://img.shields.io/github/stars/FOSSBilling/FOSSBilling?style=social&color=white)](https://github.com/FOSSBilling/FOSSBilling/stargazers)  
   *Lightweight, open-source billing and client management software.* Features recurring invoice generation, client portal accounts, and multi-gateway checkout modules suited for creator consulting services and premium content tiers.
 
-- **[Open Collective](https://github.com/opencollective/opencollective-frontend)** [![GitHub stars](https://img.shields.io/github/stars/opencollective/opencollective-frontend?style=social&color=white)](https://github.com/opencollective/opencollective-frontend/stargazers)  
+- **[Open Collective](https://github.com/opencollective/opencollective-frontend)** [![GitHub_Stars](https://img.shields.io/github/stars/opencollective/opencollective-frontend?style=social&color=white)](https://github.com/opencollective/opencollective-frontend/stargazers)  
   *Open-source transparent funding and patronage framework.* Enables creator collectives, community video projects, and developer groups to collect recurring contributions from fans with an open financial ledger.
 
-- **[Cloud Patron](https://github.com/cloudpatron/cloudpatron)** [![GitHub stars](https://img.shields.io/github/stars/cloudpatron/cloudpatron?style=social&color=white)](https://github.com/cloudpatron/cloudpatron/stargazers)  
+- **[Cloud Patron](https://github.com/cloudpatron/cloudpatron)** [![GitHub_Stars](https://img.shields.io/github/stars/cloudpatron/cloudpatron?style=social&color=white)](https://github.com/cloudpatron/cloudpatron/stargazers)  
   *Self-hosted open-source Patreon alternative.* Provides subscription-based recurring creator funding, tiered supporter content feeds, and direct backer management without platform revenue cuts.
 
-- **[Mirlo](https://github.com/funmusicplace/mirlo)** [![GitHub stars](https://img.shields.io/github/stars/funmusicplace/mirlo?style=social&color=white)](https://github.com/funmusicplace/mirlo/stargazers)  
+- **[Mirlo](https://github.com/funmusicplace/mirlo)** [![GitHub_Stars](https://img.shields.io/github/stars/funmusicplace/mirlo?style=social&color=white)](https://github.com/funmusicplace/mirlo/stargazers)  
   *Open-source audio distribution and patronage platform.* Built for musicians, podcasters, and YouTube audio creators to release tracks, host subscriber-only audio feeds, and receive direct community patronage.
 
-- **[Open Payment Host](https://github.com/abishekmuthian/open-payment-host)** [![GitHub stars](https://img.shields.io/github/stars/abishekmuthian/open-payment-host?style=social&color=white)](https://github.com/abishekmuthian/open-payment-host/stargazers)  
+- **[Open Payment Host](https://github.com/abishekmuthian/open-payment-host)** [![GitHub_Stars](https://img.shields.io/github/stars/abishekmuthian/open-payment-host?style=social&color=white)](https://github.com/abishekmuthian/open-payment-host/stargazers)  
   *Self-hosted payment and subscription gateway written in Go.* Supports Stripe, Square, PayPal, and Razorpay with webhook routing, allowing creators to drop a standalone payment checkout into any personal website.
 
-- **[Patron](https://github.com/patroninc/patron)** [![GitHub stars](https://img.shields.io/github/stars/patroninc/patron?style=social&color=white)](https://github.com/patroninc/patron/stargazers)  
+- **[Patron](https://github.com/patroninc/patron)** [![GitHub_Stars](https://img.shields.io/github/stars/patroninc/patron?style=social&color=white)](https://github.com/patroninc/patron/stargazers)  
   *Open-source Patreon alternative built for serial content creators.* Features **rolling paywalls** where newly released episodes, chapters, or videos start gated to paying supporters and automatically release to the public on a configurable schedule. Built in Rust and React.
 
-- **[MemberMatters](https://github.com/membermatters/MemberMatters)** [![GitHub stars](https://img.shields.io/github/stars/membermatters/MemberMatters?style=social&color=white)](https://github.com/membermatters/MemberMatters/stargazers)  
+- **[MemberMatters](https://github.com/membermatters/MemberMatters)** [![GitHub_Stars](https://img.shields.io/github/stars/membermatters/MemberMatters?style=social&color=white)](https://github.com/membermatters/MemberMatters/stargazers)  
   *Open-source membership and automated billing portal.* Built with Django and Vue.js with integrated Stripe recurring payments, self-service member dashboards, single sign-on (SSO), and access control hooks.
 
-- **[Createon](https://github.com/opd-ai/createon)** [![GitHub stars](https://img.shields.io/github/stars/opd-ai/createon?style=social&color=white)](https://github.com/opd-ai/createon/stargazers)  
+- **[Createon](https://github.com/opd-ai/createon)** [![GitHub_Stars](https://img.shields.io/github/stars/opd-ai/createon?style=social&color=white)](https://github.com/opd-ai/createon/stargazers)  
   *Self-hosted crypto Patreon alternative in Go.* Enables creators to accept direct Bitcoin and Monero payments. Features a flat-file architecture requiring no database, tier-restricted Markdown content, and automated cryptographic payment verification.
 
-- **[Open Creator Rails](https://github.com/ChainSafe/open-creator-rails)** [![GitHub stars](https://img.shields.io/github/stars/ChainSafe/open-creator-rails?style=social&color=white)](https://github.com/ChainSafe/open-creator-rails/stargazers)  
+- **[Open Creator Rails](https://github.com/ChainSafe/open-creator-rails)** [![GitHub_Stars](https://img.shields.io/github/stars/ChainSafe/open-creator-rails?style=social&color=white)](https://github.com/ChainSafe/open-creator-rails/stargazers)  
   *Decentralized paywall and subscription infrastructure built under contract for the Ethereum Foundation.* Grants instant on-chain access control and direct wallet-to-creator streaming payments without third-party gatekeepers.
 
-- **[NestMembership](https://github.com/ozardali/NestMembership)** [![GitHub stars](https://img.shields.io/github/stars/ozardali/NestMembership?style=social&color=white)](https://github.com/ozardali/NestMembership/stargazers)  
+- **[NestMembership](https://github.com/ozardali/NestMembership)** [![GitHub_Stars](https://img.shields.io/github/stars/ozardali/NestMembership?style=social&color=white)](https://github.com/ozardali/NestMembership/stargazers)  
   *Lightweight membership and subscription backend built with NestJS and PostgreSQL.* Features user authentication, customizable subscription plans, and recurring payment webhook handlers for Stripe and Paddle.
 
 ---
@@ -184,7 +184,7 @@ Contributions are welcome and highly appreciated!
 1. 🍴 **Fork the repository** to your GitHub account.
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-tool`.
 3. 📝 **Add your entry**: Follow the existing format and ensure factual pricing, company size/valuation, and accurate GitHub links.
-4. 🌟 **Format open-source badges**: Use the badge template `[![GitHub stars](https://img.shields.io/github/stars/owner/repo?style=social&color=white)](https://github.com/owner/repo/stargazers)`.
+4. 🌟 **Format open-source badges**: Use the badge template `[![GitHub_Stars](https://img.shields.io/github/stars/owner/repo?style=social&color=white)](https://github.com/owner/repo/stargazers)`.
 5. 📬 **Submit a Pull Request**: Provide a concise explanation of the added tool and why it benefits YouTube creators.
 
 ---
